@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: darkgray;
+    font-family: Arial, sans-serif;
+}
+
+.centre{
+    background-color: lightgray;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.centre h1{
+    font-size: 36px;
+    color: rgb(103, 204, 2);
+}
